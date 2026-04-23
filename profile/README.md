@@ -25,3 +25,5 @@ Chaque étudiant a un [board project](https://github.com/orgs/LabMOSA/projects) 
 - Waiting (en attente de quelque chose de l'extérieur, e.g. services financiers)
 - Done (tâche complétée - cette colonne se nettoie d'elle-même aux 2 semaines)
 - Keep (tâche complétée - ne pas archiver après 2 semaines)
+
+Les discussions à propos d'une tâche se font en cliquant sur la tâche et en se taggant (e.g. @felixchenier) dans les commentaires de la tâche.
