@@ -27,3 +27,7 @@ Chaque étudiant a un [board project](https://github.com/orgs/LabMOSA/projects) 
 - Keep (tâche complétée - ne pas archiver après 2 semaines)
 
 Les discussions à propos d'une tâche se font en cliquant sur la tâche et en se taggant (e.g. @felixchenier) dans les commentaires de la tâche.
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=86b6287e9bf72ac1259076c1d1c04795aa7c269bc4ac37a4f5550ec26c7e6eec%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+</iframe>
