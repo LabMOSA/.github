@@ -23,7 +23,7 @@
 
 ## Utilisation de GitHub Projects pour le suivi de tâches
 
-Chaque étudiant a un [board project](https://github.com/orgs/LabMOSA/projects) qui lui est assigné. Chaque tâche est assignée à la personne qui est responsable de son avancement, et elle avance de statut de:
+Chaque étudiant a un [project board](https://github.com/orgs/LabMOSA/projects) qui lui est assigné. Chaque tâche est assignée à la personne qui est responsable de son avancement, et elle avance de statut de:
 - Backlog (attendre avant de débuter)
 - Ready (on peut la débuter)
 - In progress
