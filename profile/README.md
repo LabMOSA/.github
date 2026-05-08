@@ -1,5 +1,12 @@
 # Laboratoire de recherche en mobilité et systèmes adaptés
 
+## Projets open-source principaux - Main Open-Source Projects
+
+- [WheelSims](https://github.com/LabMOSA/wheelsims)
+- [Kinetics Toolkit](https://github.com/kineticstoolkit)
+
+--------------------
+
 ## Liens
 
 ### Site web du laboratoire
@@ -9,8 +16,6 @@
 ### GitHub: suivi de tâches, features et bugs (issues) et versionnement de code
 
 - [Projects (Kanban boards)](https://github.com/orgs/LabMOSA/projects)
-- [WheelSims](https://github.com/wheelsims)
-- [Kinetics Toolkit](https://github.com/kineticstoolkit)
 
 ### Sharepoint: dépôt de fichiers partagés et de données de projet
 
