@@ -1,17 +1,11 @@
 # Laboratoire de recherche en mobilité et systèmes adaptés
 
-## Projets open-source principaux - Main Open-Source Projects
-
-- [WheelSims](https://github.com/LabMOSA/wheelsims)
+- [Lab website](https://felixchenier.uqam.ca)
 - [Kinetics Toolkit](https://github.com/kineticstoolkit)
+- [WheelSims](https://github.com/LabMOSA/wheelsims)
+- [NextWheel](https://github.com/felixchenier/nextwheel)
 
---------------------
-
-## Liens
-
-### Site web du laboratoire
-
-- [felixchenier.uqam.ca](https://felixchenier.uqam.ca)
+## For internal use
 
 ### GitHub: suivi de tâches, features et bugs (issues) et versionnement de code
 
