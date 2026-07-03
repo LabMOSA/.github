@@ -14,6 +14,7 @@
 
 - [Main repository - godot (wheelsims)](https://github.com/LabMOSA/wheelsims)
 - [Analysis - python (wheelsims_analysis)](https://github.com/LabMOSA/wheelsims_analysis)
+- [Artwork - Blender (wheelsims_artwork)](https://github.com/LabMOSA/wheelsims_artwork)
 - [Haptics - simulink (wheelsims_haptics)](https://github.com/LabMOSA/wheelsims_haptics)
 - [MiWe firmware - Arduino (wheelsims_miwe_firmware)](https://github.com/LabMOSA/wheelsims_miwe_firmware)
 - [Documentation - markdown (wheelsims_doc)](https://github.com/LabMOSA/wheelsims_doc)
