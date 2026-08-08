@@ -11,10 +11,6 @@ assignees: ''
 <!-- Identify what slows down or blocks your work. -->
 
 
-**Current workflow**
-<!-- Explain how you handle this problem currently. -->
-
-
 **Screenshots**
 <!-- If applicable, add screenshots to help explain your problem. -->
 
