@@ -3,7 +3,7 @@ name: 💡 Feature Request
 about: Suggest an idea for a new feature.
 title: ''
 type: feature request
-assignees: ''
+assignees: felixchenier
 
 ---
 
