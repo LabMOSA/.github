@@ -1,5 +1,9 @@
 # Laboratoire de recherche en mobilité et systèmes adaptés
 
+Mobility and Adaptive System Research Lab
+
+------------
+
 ## Lab website
 
 - [https://felixchenier.uqam.ca](https://felixchenier.uqam.ca)
